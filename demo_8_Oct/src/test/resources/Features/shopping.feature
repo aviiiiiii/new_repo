@@ -1,5 +1,7 @@
 Feature: Shopping Cart Automation
 
+
+
   Scenario: Entering Keyword and Selecting items
     Given User is in the homePage
     When User enters keyword and selects items
