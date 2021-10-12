@@ -19,8 +19,7 @@ public class homePage {
 
     @FindBy(id= "nav-logo-sprites") WebElement amazonLogo;
     @FindBy(id= "twotabsearchtextbox") WebElement searchBox;
-    @FindBy(xpath = "//span[@cel_widget_id='MAIN-SEARCH_RESULTS-11']/div/div/div/div/div/div/div[1]") WebElement item1;
-    @FindBy(xpath="/html/body/div[1]/div[2]/div[1]/div[1]/div/span[3]/div[2]/div[1]/span/div/div/div[1]/div[2]/div[1]/div/div[1]/a/div/img")WebElement item2;
+    @FindBy(xpath = "//span[text()='Redmi 9 (Sky Blue, 4GB RAM, 64GB Storage) | 2.3GHz Mediatek Helio G35 Octa core Processor']") WebElement item1;
     @FindBy(id = "productTitle") WebElement prodTitle;
 
 
@@ -43,7 +42,7 @@ public class homePage {
     }
 
     public WebDriver select_item(){
-        item2 .click();
+        item1.click();
         String mainWindow=driver.getWindowHandle();
         Set<String>handles=driver.getWindowHandles();
         Iterator<String>iterator=handles.iterator();

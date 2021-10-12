@@ -23,8 +23,9 @@ public class productPage {
     }
 
 
-    public void in_checkoutPage(){
+    public void in_checkoutPage() throws InterruptedException {
         assert heading.isDisplayed();
+        Thread.sleep(2000);
     }
 
 }

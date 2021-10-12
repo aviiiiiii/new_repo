@@ -3,10 +3,7 @@ package StepDefinitions;
 import AppHooks.Hooks;
 import io.cucumber.java.en.*;
 import org.openqa.selenium.WebDriver;
-import pages.checkoutPage;
-import pages.homePage;
-import pages.loginPage;
-import pages.productPage;
+import pages.*;
 
 import java.util.concurrent.TimeUnit;
 
@@ -17,6 +14,7 @@ public class steps {
     homePage home;
     productPage product;
     checkoutPage checkout;
+    orderSummaryPage orderSummary;
 
 
     String prodName;
@@ -68,7 +66,7 @@ public class steps {
     }
 
     @Then("User is taken to Checkout page")
-    public void user_is_taken_to_Checkout_page() {
+    public void user_is_taken_to_Checkout_page() throws InterruptedException {
         product.in_checkoutPage();
         System.out.println("INFO : User taken to Checkout Page");
     }
@@ -90,12 +88,16 @@ public class steps {
 
     @When("User selects payment mode")
     public void user_selects_payment_mode() throws InterruptedException {
-        checkout.select_bank("ICI DIRECT");
-
+        checkout.select_upi("avinash.v1311@okaxis");
+        System.out.print("Payment mode selected");
     }
 
     @Then("User is given a Order Summary")
     public void user_is_given_a_Order_Summary() {
+        orderSummary =new orderSummaryPage(driver);
+        orderSummary.in_orderSummaryPage();
+        System.out.print("User is present in orderSummaryPage");
+        orderSummary.print_details();
 
     }
 
