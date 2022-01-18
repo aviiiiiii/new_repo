@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="445d8acf-125c-4712-9eb5-d09fe40a9bb5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../demo_11_Oct/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo_11_Oct/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo_11_Oct/src/main/java/pages/checkoutPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo_11_Oct/src/main/java/pages/checkoutPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo_11_Oct/src/test/java/AppHooks/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo_11_Oct/src/test/java/AppHooks/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo_11_Oct/target/classes/pages/checkoutPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demo_11_Oct/target/classes/pages/checkoutPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo_11_Oct/target/reports/html/embedded0.png" beforeDir="false" afterPath="$PROJECT_DIR$/../demo_11_Oct/target/reports/html/embedded0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo_11_Oct/target/reports/html/embedded1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../demo_11_Oct/target/reports/html/embedded1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo_11_Oct/target/reports/html/embedded12.png" beforeDir="false" afterPath="$PROJECT_DIR$/../demo_11_Oct/target/reports/html/embedded12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo_11_Oct/target/reports/html/embedded13.png" beforeDir="false" afterPath="$PROJECT_DIR$/../demo_11_Oct/target/reports/html/embedded13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo_11_Oct/target/reports/html/embedded2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../demo_11_Oct/target/reports/html/embedded2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo_11_Oct/target/reports/html/embedded3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../demo_11_Oct/target/reports/html/embedded3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo_11_Oct/target/reports/html/embedded4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../demo_11_Oct/target/reports/html/embedded4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo_11_Oct/target/reports/html/embedded7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../demo_11_Oct/target/reports/html/embedded7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo_11_Oct/target/reports/html/embedded8.png" beforeDir="false" afterPath="$PROJECT_DIR$/../demo_11_Oct/target/reports/html/embedded8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo_11_Oct/target/reports/html/embedded9.png" beforeDir="false" afterPath="$PROJECT_DIR$/../demo_11_Oct/target/reports/html/embedded9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo_11_Oct/target/reports/json/report.json" beforeDir="false" afterPath="$PROJECT_DIR$/../demo_11_Oct/target/reports/json/report.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo_11_Oct/target/test-classes/AppHooks/Hooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demo_11_Oct/target/test-classes/AppHooks/Hooks.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="20J1uxx1i8Li2bOgbZdb6cepSyA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/selenium-java-4.0.0.jar" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="TestNG.selenium4.test7">
+    <configuration name="selenium4.test3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="untitled12345" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="selenium4" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="selenium4.test4" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="untitled12345" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="selenium4" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="selenium4.test5" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="untitled12345" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="selenium4" />
+      <option name="METHOD_NAME" value="test5" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="selenium4.test6" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="untitled12345" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="selenium4" />
+      <option name="METHOD_NAME" value="test6" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="selenium4.test7" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="untitled12345" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="selenium4" />
+      <option name="METHOD_NAME" value="test7" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.selenium4.test7" />
+        <item itemvalue="TestNG.selenium4.test5" />
+        <item itemvalue="TestNG.selenium4.test6" />
+        <item itemvalue="TestNG.selenium4.test4" />
+        <item itemvalue="TestNG.selenium4.test3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="445d8acf-125c-4712-9eb5-d09fe40a9bb5" name="Changes" comment="" />
+      <created>1635748105750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635748105750</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/selenium4.java</url>
+          <line>23</line>
+          <properties class="selenium4" method="test2">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

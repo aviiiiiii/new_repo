@@ -14,10 +14,8 @@ public class checkoutPage {
     WebDriver driver;
 
     @FindBy(id = "nav-cart-count-container") WebElement cartBtn;
-    @FindBy(name = "proceedToRetailCheckout") WebElement buybtn;
+    @FindBy(name = "proceedToRetailCheckout") WebElement buyBtn;
     @FindBy(partialLinkText = "Deliver to this address") WebElement addressBtn;
-    @FindBy(xpath = "/html/body/div[5]/div/div[2]/div[2]/div/div[2]/div[1]/form/div[1]/div/div/div/div[3]/div/div/div/div[2]/div[2]/div/div/div/span/select")WebElement bankDropdown;
-    @FindBy(xpath = "/html/body/div[5]/div/div[2]/div[2]/div/div[2]/div[1]/form/div[1]/div/div/div/div[3]/div/div/div/div[2]/div[2]/div/div/div")WebElement netBanking;
     @FindBy(xpath = "/html/body/div[5]/div[1]/div[2]/div[2]/div/div[2]/div[1]/form/div[1]/div/div/div/div[4]/div/div/div/div/div[2]") WebElement upi;
     @FindBy(xpath = "/html/body/div[5]/div[1]/div[2]/div[2]/div/div[2]/div[1]/form/div[1]/div/div/div/div[4]/div/div/div/div/div[2]/div[3]/div/div/div/div[2]/div/div/div/div/div[1]/div[1]/input")WebElement upi_name;
     @FindBy(name = "ppw-widgetEvent:ValidateUpiIdEvent")WebElement verifyBtn;
@@ -34,7 +32,7 @@ public class checkoutPage {
     }
 
     public void proceed_to_buy(){
-        buybtn.click();
+        buyBtn.click();
     }
 
     public void select_address(){

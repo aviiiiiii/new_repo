@@ -1,0 +1,6 @@
+11:47:03.990 [main] TRACE newTest - trace
+11:47:03.995 [main] DEBUG newTest - debug
+11:47:03.995 [main] INFO  newTest - info
+11:47:03.995 [main] WARN  newTest - warn
+11:47:03.996 [main] ERROR newTest - error
+11:47:03.996 [main] FATAL newTest - fatal
